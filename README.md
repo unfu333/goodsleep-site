@@ -1,6 +1,6 @@
-# GoodSleep site
+# Sleepline site
 
-Privacy policy and support pages for the GoodSleep iOS app.
+Privacy policy and support pages for the Sleepline iOS app.
 
 - Privacy: https://unfu333.github.io/goodsleep-site/privacy.html
 - Support: https://unfu333.github.io/goodsleep-site/support.html
